@@ -1,0 +1,6 @@
+account_id,user_id,account_type,creation_date,status
+1001,1,Checking,2018-01-15,Active
+1002,2,Savings,2019-06-20,Active
+1003,3,Checking,2020-03-10,Active
+1004,4,Checking,2017-07-25,Active
+1005,5,Savings,2016-11-30,Active

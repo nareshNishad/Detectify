@@ -1,0 +1,6 @@
+device_id,user_id,device_type,os
+D1,1,Mobile,iOS
+D2,2,Laptop,Windows
+D3,3,Tablet,Android
+D4,4,Mobile,Android
+D5,5,Laptop,MacOS

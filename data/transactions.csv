@@ -1,0 +1,11 @@
+transaction_id,from_account,to_account,amount,date,transaction_type,status,merchant_id,device_id,location_id,ip_address_id
+5001,1001,1002,1500.00,2021-05-01,Transfer,Completed,,D1,L1,IP1
+5002,1002,1003,2000.00,2021-05-02,Transfer,Completed,,D2,L2,IP2
+5003,1003,1004,500.00,2021-05-03,Transfer,Completed,,D3,L3,IP3
+5004,1004,,250.00,2021-05-04,Withdrawal,Completed,2001,D4,L4,IP4
+5005,,1005,300.00,2021-05-05,Deposit,Completed,2002,D5,L5,IP5
+5006,1001,,10000.00,2021-05-06,Withdrawal,Completed,2003,D1,L6,IP1
+5007,1001,1005,7500.00,2021-05-07,Transfer,Completed,,D1,L1,IP6
+5008,1005,1001,7500.00,2021-05-08,Transfer,Completed,,D5,L5,IP5
+5009,1001,1002,10000.00,2021-05-09,Transfer,Pending,,D1,L1,IP1
+5010,1002,1003,5000.00,2021-05-10,Transfer,Completed,,D2,L2,IP2

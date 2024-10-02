@@ -1,0 +1,6 @@
+# api/requirements.txt
+Flask
+neo4j
+pandas
+joblib
+scikit-learn
