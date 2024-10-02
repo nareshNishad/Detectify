@@ -64,6 +64,8 @@ For example, a transaction initiated from an IP address associated with a foreig
 - `(Device)-[:LOCATED_AT]->(Location)`
 - `(IPAddress)-[:ASSOCIATED_WITH]->(Location)`
 
+![DB schema](./db-schema.png)
+
 ### Import Data into Neo4j
 
 Use the provided `import_data.py` script to load the data into Neo4j.
